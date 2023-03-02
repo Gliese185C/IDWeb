@@ -1,0 +1,10 @@
+c : HEAD 522b36d447aa718e47808ad161cceb64deff2c77 checksum
+cpp : HEAD 9ff1de12747714ef16a1b88dd89f73cd07ff42bc checksum
+cs : HEAD 67dc8450d6854e133928f143eb76cd33b271d3c7 checksum
+go : HEAD 987bdb4d6204efb401bea458e36c73f02c8f08d3 checksum
+java : HEAD 944e588975247cb34b29063c703250846d203d91 checksum
+kotlin : HEAD a8c8ed5868baff2c9f10fb23f45eac1feb2f191c checksum
+lua : HEAD 91f90bd651be9ace78a612e5f88d9ef35f499380 checksum
+php : HEAD 59378a2804427edb6463418361c5815f99be9902 checksum
+python : HEAD 99692fc2c543472cdacef07bfba8f067592c0f1c checksum
+swift : HEAD3cdd11de8f901c9d4076bd82ae718a53fdbdf05a checksum
